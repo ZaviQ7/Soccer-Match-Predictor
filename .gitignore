@@ -13,3 +13,6 @@ data/
 .vscode/
 .idea/
 .DS_Store
+
+# User specific files
+process_new_format.py
